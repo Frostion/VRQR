@@ -1,6 +1,0 @@
-C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\VRCQR\VRCQR\bin\Release\net5.0-windows\publish\VRCQR.exe
-C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\VRCQR\VRCQR\bin\Release\net5.0-windows\publish\VRCQR.dll
-C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\VRCQR\VRCQR\bin\Release\net5.0-windows\publish\VRCQR.deps.json
-C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\VRCQR\VRCQR\bin\Release\net5.0-windows\publish\VRCQR.runtimeconfig.json
-C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\VRCQR\VRCQR\bin\Release\net5.0-windows\publish\VRCQR.pdb
-C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\VRCQR\VRCQR\bin\Release\net5.0-windows\publish\zxing.dll

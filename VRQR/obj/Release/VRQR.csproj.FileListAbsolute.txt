@@ -1,0 +1,15 @@
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\VRQR\VRQR\bin\Release\App.config
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\VRQR\VRQR\bin\Release\VRQR.exe.config
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\VRQR\VRQR\bin\Release\VRQR.exe
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\VRQR\VRQR\bin\Release\VRQR.pdb
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\VRQR\VRQR\bin\Release\zxing.dll
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\VRQR\VRQR\bin\Release\zxing.presentation.dll
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\VRQR\VRQR\bin\Release\zxing.xml
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\VRQR\VRQR\bin\Release\zxing.presentation.xml
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\VRQR\VRQR\obj\Release\VRQR.Form1.resources
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\VRQR\VRQR\obj\Release\VRQR.Properties.Resources.resources
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\VRQR\VRQR\obj\Release\VRQR.csproj.GenerateResource.cache
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\VRQR\VRQR\obj\Release\VRQR.csproj.CoreCompileInputs.cache
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\VRQR\VRQR\obj\Release\VRQR.csproj.CopyComplete
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\VRQR\VRQR\obj\Release\VRQR.exe
+C:\Users\Frost Sheridan\Nextcloud\Projects - Tech\Visual Studio\VRQR\VRQR\obj\Release\VRQR.pdb

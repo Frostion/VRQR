@@ -25,6 +25,8 @@ namespace VRQR
             watcher.Filter = "*.png";
             watcher.Created += fileCreatedEvent;
             watcher.EnableRaisingEvents = true;
+            // Scan subdirectories - Credit to Hazel-Willow for fix - github.com/Frostion/VRQR/issues/1#issuecomment-1008435172
+            watcher.IncludeSubdirectories = true;  
         }
         private void Form1_Load(object sender, EventArgs e)
         {
